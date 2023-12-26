@@ -1,2 +1,2 @@
-# game-checkers
+# Checkers
 Checkers for all.
